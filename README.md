@@ -1,4 +1,4 @@
-# World-Bank-Dept-Analysis-using-SQl
+# All-Countries-Dept-Analysis-using-SQl
 
 This project aims to analyze international debt data collected by the World Bank using sql and provide insights into global debt trends over time.
 
